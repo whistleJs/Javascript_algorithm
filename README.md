@@ -15,3 +15,7 @@
 * 완전탐색
 
   * [모의고사](https://github.com/whistleJs/Javascript_algorithm/tree/master/Level1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
+
+* 탐욕법 (Greedy)
+
+  * [체육복](https://github.com/whistleJs/Javascript_algorithm/tree/master/Level1/%EC%B2%B4%EC%9C%A1%EB%B3%B5)
