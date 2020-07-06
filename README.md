@@ -19,3 +19,7 @@
 * 탐욕법 (Greedy)
 
   * [체육복](https://github.com/whistleJs/Javascript_algorithm/tree/master/Level1/%EC%B2%B4%EC%9C%A1%EB%B3%B5)
+
+* 정렬
+
+  * [K번째 수](https://github.com/whistleJs/Javascript_algorithm/tree/master/Level1/K%EB%B2%88%EC%A7%B8%20%EC%88%98)
