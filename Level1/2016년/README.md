@@ -1,4 +1,4 @@
-## 체육복
+## 2016년
 > https://programmers.co.kr/learn/courses/30/lessons/12901
 
 > [알고리즘 확인하기](https://github.com/whistleJs/Javascript_algorithm/blob/master/Level1/2016%EB%85%84/index.js)
