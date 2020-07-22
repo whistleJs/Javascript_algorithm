@@ -1,4 +1,4 @@
-## 체육복
+## K번째 수
 > https://programmers.co.kr/learn/courses/30/lessons/42748
 
 > [알고리즘 확인하기](https://github.com/whistleJs/Javascript_algorithm/blob/master/Level1/K%EB%B2%88%EC%A7%B8%20%EC%88%98/index.js)
