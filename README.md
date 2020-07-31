@@ -47,3 +47,5 @@
   * [서울에서 김서방 찾기](https://github.com/whistleJs/Javascript_algorithm/tree/master/Level1/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0)
 
   * [수박수박수박수박수박수](https://github.com/whistleJs/Javascript_algorithm/tree/master/Level1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98)
+
+  * [시저 암호](https://github.com/whistleJs/Javascript_algorithm/tree/master/Level1/%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8)
